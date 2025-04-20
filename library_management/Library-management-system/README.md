@@ -1,2 +1,0 @@
-# Library management system
- 
